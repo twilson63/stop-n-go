@@ -32,6 +32,7 @@ list.get();
 #> 'foo2'
 list.all();
 #> ['foo','foo2']
+```
 
 ## License
 
