@@ -1,0 +1,24 @@
+{
+  "author": "Tom Wilson <tom@jackhq.com>",
+  "name": "stop-n-go",
+  "description": "A module that rotates items in an array from first to last.",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/twilson63/stop-n-go.git"
+  },
+  "main": "lib",
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": "0.6 || 0.7 || 0.8"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script": "*",
+    "mocha": "*",
+    "should": "*"
+  },
+  "optionalDependencies": {}
+}
