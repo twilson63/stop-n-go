@@ -3,6 +3,7 @@
   "name": "stop-n-go",
   "description": "A module that rotates items in an array from first to last.",
   "version": "0.1.0",
+  "keywords": ["array", "stack", "rotation"],
   "repository": {
     "type": "git",
     "url": "git://github.com/twilson63/stop-n-go.git"
@@ -16,9 +17,9 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "coffee-script": "*",
-    "mocha": "*",
-    "should": "*"
+    "coffee-script": "1.2.0",
+    "mocha": "0.14.1",
+    "should": "0.6.0"
   },
   "optionalDependencies": {}
 }
